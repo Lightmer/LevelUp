@@ -1,0 +1,169 @@
+/* body{
+
+} */
+
+.first-three{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center; 
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.first-four{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    vertical-align: 50%;
+
+}
+
+.second-four{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.second-three{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.first-block{
+    width: 250px;
+    height: 250px;
+    background: rgb(107, 102, 102);
+    display: table-cell;
+    margin: 8px;
+
+}
+
+.second-block{
+    
+    width: 250px;
+    height: 250px;
+    background: green;
+    display: table-cell;
+   margin: 8px; 
+}
+
+.thirt-block{
+    width: 250px;
+    height: 250px;
+    background: blue;
+    display: table-cell;
+    margin: 8px;
+
+}
+
+.fourght-block{
+    width: 250px;
+    height: 250px;
+    background: rgb(129, 50, 50);
+    display: table-cell;
+    margin: 8px;
+
+}
+
+.fifeth-block{
+    width: 250px;
+    height: 250px;
+    background: violet;
+    display: table-cell;
+    margin: 8px;
+
+}
+
+.sixth-block{
+    width: 250px;
+    height: 250px;
+    background: orange;
+    display: table-cell;
+    margin: 8px;
+
+}
+
+.seven-block{
+    width: 250px;
+    height: 250px;
+    background: rgb(255, 0, 0);
+    display: table-cell;
+    margin: 8px;
+
+}
+.eight-block{
+    width: 250px;
+    height: 250px;
+    background: rgb(255, 0, 140);
+    display: table-cell;
+    margin: 8px;
+
+}
+
+.ninth-block{
+    width: 250px;
+    height: 250px;
+    background: rgb(94, 133, 190);
+    display: table-cell;
+    margin: 8px;
+ 
+}
+
+.ten-block{
+    width: 250px;
+    height: 250px;
+    background: rgb(62, 201, 132);
+    display: table-cell;
+    margin: 8px;
+
+}
+
+.eleven-block{
+    width: 250px;
+    height: 250px;
+    background:     rgb(140, 0, 255);
+    display: table-cell;
+    margin: 8px;
+
+}
+
+.twelfth-block{
+    width: 250px;
+    height: 250px;
+    background: rgb(255, 0, 64);
+    display: table-cell;
+    margin: 8px;
+
+}
+
+.thirteenth-block{
+    width: 250px;
+    height: 250px;
+    background: rgb(45, 109, 109);
+    display: table-cell;
+    margin: 8px;
+
+}
+
+.fourteenth-block{
+    width: 250px;
+    height: 250px;
+    background: rgb(41, 187, 192);
+    display: table-cell;
+    margin: 8px;
+ 
+}
